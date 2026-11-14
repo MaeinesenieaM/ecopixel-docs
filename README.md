@@ -1,1 +1,1 @@
-To check the documentation, access: https://github.com/MaeinesenieaM/ecopixel-docs
+To check the documentation, access: https://maeinesenieam.github.io/ecopixel-docs/en/
